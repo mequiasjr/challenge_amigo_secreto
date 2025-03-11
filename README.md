@@ -51,7 +51,7 @@ O projeto utiliza um design moderno e acessível, com uma paleta de cores harmon
 
 ## 🚀 Como Usar
 
-1️⃣ Abra o arquivo **index.html** no navegador.  
+1️⃣ Abra o arquivo **index.html** no navegador ou o link https:\\mequiasjr.github.io/challenge_amigo_secreto/.  
 2️⃣ Digite os nomes no campo de entrada e clique em **"Adicionar"**.  
 3️⃣ Para sortear um amigo secreto, clique no botão **"Sortear Amigo"**.  
 4️⃣ O nome sorteado aparecerá na tela, e a lista será ocultada para surpresa dos participantes!  
